@@ -1,2 +1,3 @@
 # данный проект разработан для подсчета транспортных средств на видео.
-# Пример видео для работы программы https://drive.google.com/file/d/1YMzYHrQNYWE83GcYPgpOxtxLvsSgcyRx/view?usp=sharing
+הפרויקט הזה נועד לספור כלי רכב בסרטון.
+# Пример видео для работы программы סרטון לדוגמא להפעלת התוכנית https://drive.google.com/file/d/1YMzYHrQNYWE83GcYPgpOxtxLvsSgcyRx/view?usp=sharing
